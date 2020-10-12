@@ -20,6 +20,7 @@ T40601 - Przygotuj skrypt przetwarzający adres email wpisany do formularza (inp
 1. Sprawdź czy nie jest pusty
 2. Sprawdz czy to adres email (czy jest @)
 3. Wypisz w akapicie z komunikatem (poniżej) samą domenę.
+4. Sprawdzenia dokonaj po kliknięciu buttona.
 
 ```
 ### --------Links
