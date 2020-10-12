@@ -23,7 +23,7 @@ T40601 - Przygotuj skrypt przetwarzający adres email wpisany do formularza (inp
 
 ```
 ### --------Links
-https://github.com/T4aiL/T405-CSS-recap
+https://github.com/T4aiL/T406-JS_recap
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
