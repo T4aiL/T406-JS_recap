@@ -12,6 +12,15 @@
 6. Objects
 7. DOM
 ```
+### APIs
+https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+https://rapidapi.com/blog/most-popular-api/
+https://support.giphy.com/hc/en-us/articles/360034600411-GIPHY-API
+https://api.wheretheiss.at
+https://jsonplaceholder.typicode.com
+https://api.chucknorris.io
+http://api.icndb.com/
+
 
 ### --------ZAD
 ```
@@ -22,7 +31,15 @@ T40601 - Przygotuj skrypt przetwarzający adres email wpisany do formularza (inp
 3. Wypisz w akapicie z komunikatem (poniżej) samą domenę.
 4. Sprawdzenia dokonaj po kliknięciu buttona.
 
-T4602 - Przygotuj aplikację wyświetlającą losowy żart.
+T40602 - Wyświetl tabliczkę mnożenia używając Javascript.
+
+T40603 - Przygotuj aplikację wyświetlającą losowy żart.
+
+T40604 - Prezygotuj aplikację wyświetlającą losowy obraz psa.
+
+T40605 - Przygotuj wyszukiwarkę uczelni w polsce
+
+T40606 - Przygotuj quiz sprawdzający znajomość stolic krajów
 
 ```
 ### --------Links
