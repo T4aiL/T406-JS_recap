@@ -1,7 +1,7 @@
 # T406-JS_recap
 
 
-# T401 (2020.10.12) JS - powtórzenie
+# T401 (2020.10.12/13) JS - powtórzenie
 ## -------INFO
 ```
 1. Intro
