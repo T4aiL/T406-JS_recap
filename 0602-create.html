@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create element</title>
+    <style>
+        #container{
+            border:1px solid grey;
+            min-height:200px;
+        }
+    </style>
+</head>
+<body>
+    <button id="myBtn">CREATE</button>
+    <input type="text" id="tag" placeholder="Podaj TAG">
+    <input type="text" id="tag" placeholder="Podaj tekst">
+    <div id="container"></div>
+    <script>
+        const myBtn = document.querySelector('#myBtn');
+        const container = document.querySelector('#container');
+        const tag = document.querySelector('#tag');
+        const content = document.querySelector('#content');
+
+
+
+        let counter = 0;
+
+        myBtn.addEventListener('click',()=>{
+            let newTag = tag.value;
+            const newElement = document.createElement(newTag);
+
+            newElement.innerText = 'To jest nowy ' + counter;
+            container.appendChild(newElement);
+
+            counter++;
+        })
+    </script>
+</body>
+</html>
