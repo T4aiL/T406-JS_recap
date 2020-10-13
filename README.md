@@ -31,7 +31,7 @@ T40601 - Przygotuj skrypt przetwarzający adres email wpisany do formularza (inp
 3. Wypisz w akapicie z komunikatem (poniżej) samą domenę.
 4. Sprawdzenia dokonaj po kliknięciu buttona.
 
-T40602 - Wyświetl tabliczkę mnożenia używając Javascript. Po najechaniu na wynik pokazuje się działanie w dymku.
+T40602 - Wyświetl tabliczkę mnożenia używając Javascript. Po najechaniu na wynik, zostaje on powiększony i pokazuje się działanie w dymku.
 
 T40603 - Przygotuj aplikację wyświetlającą losowy żart.
 
