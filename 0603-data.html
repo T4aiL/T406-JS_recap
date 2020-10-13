@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch data</title>
+    <style>
+        ul{
+            display:flex;
+            list-style:none;
+            flex-wrap: wrap;
+        }
+        li{
+            border-radius:3px;
+            margin:5px;
+            padding:5px;
+            border:1px solid grey;
+            width:200px;
+        }
+        .name{
+            font-weight:bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        const container = document.querySelector('#container')
+
+        fetch('https://jsonplaceholder.typicode.com/users/')
+            .then(response => response.json())
+            .then(json => wypisz(json))
+
+        function wypisz(users){
+            console.log(users)
+            const newList = document.createElement('ul')
+            for(let i = 0; i < users.length; i++){
+                const newElement = document.createElement('li')
+                console.log();
+                newElement.innerHTML = '<div class="name">' + users[i].name + '</div> ' + users[i].email
+                newList.appendChild(newElement);
+            }
+            container.appendChild(newList);
+        }
+    </script>
+</body>
+</html>
