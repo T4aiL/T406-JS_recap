@@ -1,7 +1,5 @@
-# T406-JS_recap
+# T407-JS_recap 
 
-
-# T401 (2020.10.12/13) JS - powtórzenie
 ## -------INFO
 ```
 1. Intro
@@ -24,26 +22,26 @@ http://api.icndb.com/
 
 ### --------ZAD
 ```
-T40601 - Przygotuj skrypt przetwarzający adres email wpisany do formularza (input).
+T40701 - Przygotuj skrypt przetwarzający adres email wpisany do formularza (input).
 
 1. Sprawdź czy nie jest pusty
 2. Sprawdz czy to adres email (czy jest @)
 3. Wypisz w akapicie z komunikatem (poniżej) samą domenę.
 4. Sprawdzenia dokonaj po kliknięciu buttona.
 
-T40602 - Wyświetl tabliczkę mnożenia (1-100) używając Javascript. Po najechaniu na wynik, zostaje on powiększony i pokazuje się działanie w dymku.
+T40702 - Wyświetl tabliczkę mnożenia (1-100) używając Javascript. Po najechaniu na wynik, zostaje on powiększony i pokazuje się działanie w dymku.
 
-T40603 - Przygotuj aplikację wyświetlającą losowy żart.
+T40703 - Przygotuj aplikację wyświetlającą losowy żart.
 
-T40604 - Prezygotuj aplikację wyświetlającą losowy obraz psa.
+T40704 - Prezygotuj aplikację wyświetlającą losowy obraz psa.
 
-T40605 - Przygotuj wyszukiwarkę uczelni w polsce
+T40705 - Przygotuj wyszukiwarkę uczelni w polsce
 
-T40606 - Przygotuj quiz sprawdzający znajomość stolic krajów
+T40706 - Przygotuj quiz sprawdzający znajomość stolic krajów
 
 ```
 ### --------Links
-https://github.com/T4aiL/T406-JS_recap
+https://github.com/T4aiL/T407-JS_recap
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
