@@ -11,14 +11,14 @@
 7. DOM
 ```
 ### APIs
-https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
-https://rapidapi.com/blog/most-popular-api/
-https://support.giphy.com/hc/en-us/articles/360034600411-GIPHY-API
-https://api.wheretheiss.at
-https://jsonplaceholder.typicode.com
-https://api.chucknorris.io
-http://api.icndb.com/
-https://dog.ceo/dog-api/
+- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+- https://rapidapi.com/blog/most-popular-api/
+- https://support.giphy.com/hc/en-us/articles/360034600411-GIPHY-API
+- https://api.wheretheiss.at
+- https://jsonplaceholder.typicode.com
+- https://api.chucknorris.io
+- http://api.icndb.com/
+- https://dog.ceo/dog-api/
 
 
 ### --------ZAD
