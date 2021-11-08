@@ -18,6 +18,7 @@ https://api.wheretheiss.at
 https://jsonplaceholder.typicode.com
 https://api.chucknorris.io
 http://api.icndb.com/
+https://dog.ceo/dog-api/
 
 
 ### --------ZAD
