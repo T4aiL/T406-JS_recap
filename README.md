@@ -11,6 +11,7 @@
 7. DOM
 ```
 ### APIs
+- https://reqres.in/api/users
 - https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 - https://rapidapi.com/blog/most-popular-api/
 - https://support.giphy.com/hc/en-us/articles/360034600411-GIPHY-API
